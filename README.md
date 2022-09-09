@@ -1,5 +1,3 @@
-# Gamers-Den
-
 # Gamers-Den-e-commerce-website 
 Web Fundementals Sunway University Final Assignment 
 
